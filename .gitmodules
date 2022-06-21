@@ -1,0 +1,3 @@
+[submodule "brainfuck/ANSI-Library"]
+	path = brainfuck/ANSI-Library
+	url = https://github.com/Constantin-Alexandru/ANSI-Library
